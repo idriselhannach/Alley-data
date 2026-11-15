@@ -319,7 +319,7 @@ export function amorcerDesSorties(
 
 /* --- Le stockage du telephone ---------------------------------------- */
 
-const PREFIXE = 'sirocco.pourtoi.journal.';
+const PREFIXE = 'alley.pourtoi.journal.';
 
 function bienForme(valeur: unknown): valeur is Journal {
   const j = valeur as Partial<Journal> | null;

@@ -1,6 +1,6 @@
 # Alley · la partie données
 
-**Alley** (anciennement Sirocco) est une application mobile née d'un constat : là où l'on vit,
+**Alley** est une application mobile née d'un constat : là où l'on vit,
 dans sa ville comme sur son campus, il est difficile de trouver sa communauté, et plus encore
 de la rencontrer. Chaque ville, et chaque école, y a la sienne, qui se retrouve autour
 d'événements : un café, un match, une soirée de révisions. Elle est en ligne depuis l'été 2026,
