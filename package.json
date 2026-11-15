@@ -1,8 +1,8 @@
 {
-  "name": "sirocco-data",
+  "name": "alley-data",
   "private": true,
   "type": "module",
-  "description": "Extraits du code de Sirocco : recommandation, geometrie du campus, carte des lieux.",
+  "description": "Extraits du code d'Alley : recommandation, geometrie du campus, carte des lieux.",
   "scripts": {
     "test": "vitest run",
     "typecheck": "tsc --noEmit"

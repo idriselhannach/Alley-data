@@ -1,10 +1,11 @@
-# Sirocco · la partie données
+# Alley · la partie données
 
-**Sirocco** est une application mobile née d'un constat : dans une nouvelle ville, il est
-difficile de trouver sa communauté, et plus encore de la rencontrer. Chaque ville y a la sienne,
-qui se retrouve autour d'événements : un café, un match, une soirée de révisions. Elle est en
-ligne depuis l'été 2026, sur l'App Store, le Play Store et le web, avec près de 90 membres
-répartis entre Marrakech, Paris, Londres, Barcelone, Berlin, Poissy et l'ESSEC.
+**Alley** (anciennement Sirocco) est une application mobile née d'un constat : là où l'on vit,
+dans sa ville comme sur son campus, il est difficile de trouver sa communauté, et plus encore
+de la rencontrer. Chaque ville, et chaque école, y a la sienne, qui se retrouve autour
+d'événements : un café, un match, une soirée de révisions. Elle est en ligne depuis l'été 2026,
+sur l'App Store, le Play Store et le web ([alleyapp.fr](https://alleyapp.fr)), avec plus de
+90 membres répartis entre Marrakech, Paris, Londres, Barcelone, Berlin, Poissy et l'ESSEC.
 
 Ce dépôt rassemble **trois extraits du vrai code de l'application**, ceux qui touchent aux
 données, avec leurs tests. Le reste de l'application (écrans, messagerie, appels…) reste privé :
